@@ -1,0 +1,55 @@
+#alpha{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+#beta{
+    border: 1px solid black;
+    width: 700px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+}
+#one{
+    border: 1px solid black;
+    flex: 1;
+}
+#two{
+    border: 1px solid black;
+    flex: 3;
+    display: flex;
+    flex-direction: row;
+}
+#first{
+    border: 1px solid black;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+#book{
+    border: 1px solid black;
+    flex: 1;
+}
+#pen{
+    border: 1px solid black;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+#mark{
+    border: 1px solid black;
+    flex: 1;
+}
+#dark{
+    border: 1px solid black;
+    flex: 1;
+}
+#second{
+    border: 1px solid black;
+    flex:1;
+}
+#third{
+    border: 1px solid black;
+    flex: 1;
+}
